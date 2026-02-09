@@ -1,0 +1,5 @@
+matplotlib
+numpy
+ffmpeg-python
+pandas
+opencv-python
